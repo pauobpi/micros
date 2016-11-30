@@ -1,0 +1,23 @@
+{
+  "name": "liga-cooltureta-madrid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Atrápalo",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "babel-preset-es2015-without-strict": "0.0.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp-babel": "^6.1.2"
+  }
+}
